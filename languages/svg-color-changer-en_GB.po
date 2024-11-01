@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: SVG Color Changer\n"
+"POT-Creation-Date: 2023-10-05 10:31+0200\n"
+"PO-Revision-Date: 2023-10-05 10:34+0200\n"
+"Language-Team: 48DEISN GmbH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_GB\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: css\n"
+"X-Poedit-SearchPathExcluded-3: js\n"
+"X-Poedit-SearchPathExcluded-4: includes\n"
+"X-Poedit-SearchPathExcluded-5: vendor\n"
+
+#. Plugin Name of the plugin/theme
+#: class-svg-color-changer.php:76
+msgid "SVG Color Changer"
+msgstr "SVG Colour Changer"
+
+#: class-svg-color-changer.php:80
+msgid "Unique Colors"
+msgstr "Unique Colours"
+
+#: class-svg-color-changer.php:83
+msgid "All colors"
+msgstr "All colours"
+
+#: class-svg-color-changer.php:85
+msgid "Main color"
+msgstr "Main colour"
+
+#. translators: %d: number of colors to show
+#: class-svg-color-changer.php:89 class-svg-color-changer.php:93
+#: class-svg-color-changer.php:97 class-svg-color-changer.php:101
+#: class-svg-color-changer.php:105
+#, php-format
+msgid "Top %d"
+msgstr "Top %d"
+
+#: class-svg-color-changer.php:108 class-svg-color-changer.php:149
+msgid "Reset Colors"
+msgstr "Reset Colours"
+
+#: class-svg-color-changer.php:109
+msgid "Change All Colors"
+msgstr "Change All Colours"
+
+#: class-svg-color-changer.php:116
+msgid "All SVGs Uploaded"
+msgstr "All SVGs Uploaded"
+
+#: class-svg-color-changer.php:150
+msgid "Change Colors"
+msgstr "Change Colours"
+
+#. Plugin URI of the plugin/theme
+msgid "https://shop.48design.com/svg-color-changer"
+msgstr "https://shop.48design.com/svg-color-changer"
+
+#. Description of the plugin/theme
+msgid ""
+"Allows to change the colors in uploaded SVG files. Colors can even be "
+"changed in all SVG files at once, e.g. when changing a company's brand color "
+"or adapting a white label solution."
+msgstr ""
+"Allows to change the colours in uploaded SVG files. Colours can even be "
+"changed in all SVG files at once, e.g. when changing a company's brand "
+"colour or adapting a white label solution."
+
+#. Author of the plugin/theme
+msgid "48DESIGN GmbH"
+msgstr "48DESIGN GmbH"
+
+#. Author URI of the plugin/theme
+msgid "https://www.vierachtdesign.com/"
+msgstr "https://www.vierachtdesign.com/"
